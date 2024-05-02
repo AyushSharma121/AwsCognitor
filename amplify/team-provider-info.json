@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsloginreact-dev-2e3ff-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492260579:role/amplify-awsloginreact-dev-2e3ff-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492260579:role/amplify-awsloginreact-dev-2e3ff-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsloginreact-dev-2e3ff-deployment",
+      "UnauthRoleName": "amplify-awsloginreact-dev-2e3ff-unauthRole",
+      "StackName": "amplify-awsloginreact-dev-2e3ff",
+      "StackId": "arn:aws:cloudformation:us-east-1:381492260579:stack/amplify-awsloginreact-dev-2e3ff/ecf09490-0845-11ef-b500-12bfaaa37d9b",
+      "AmplifyAppId": "ddztvx2250hw2"
+    },
+    "categories": {
+      "auth": {
+        "awsloginreactad4ef2fe": {}
+      }
+    }
+  }
+}
